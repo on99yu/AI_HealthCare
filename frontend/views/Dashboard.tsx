@@ -211,7 +211,7 @@ const Dashboard: React.FC<DashboardProps> = ({ state }) => {
       </div>
 
       {/* SECTION 5: AI Meal Summary */}
-      <DashboardCard title="AI 식단 요약" icon={<Apple className="text-orange-500" size={20} />}>
+      <DashboardCard title="오늘의 식단 추천" icon={<Apple className="text-orange-500" size={20} />}>
         <div className="bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl p-6 text-white overflow-hidden relative">
           <Apple className="absolute -bottom-4 -right-4 text-white/5" size={120} />
           <div className="relative z-10">
