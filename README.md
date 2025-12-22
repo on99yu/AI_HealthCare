@@ -12,7 +12,7 @@ AI를 활용해 개인 맞춤형 분석과 식단 추천을 제공하는 헬스 
 ## 🔗 Demo & Docs
 
 - 🌐 Web URL:  https://web-ai-healthcare-front-mjcarnfi091d2bc8.sel3.cloudtype.app
-- 📊 PPT 기획안:  
+- 📊 PPT 보고서: https://gamma.app/docs/HealthHub-AI-imakfu1hotnjqyu
 
 ---
 
